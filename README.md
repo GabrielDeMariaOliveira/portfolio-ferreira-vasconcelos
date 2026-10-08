@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="Capa gráfica do portfólio Ferreira e Vasconcelos — não é captura do site" src="./assets/cover.svg" width="100%">
+<img alt="Captura real da página inicial do site em desktop" src="./assets/screenshots/desktop-home.jpg" width="100%">
 
 # Ferreira &amp; Vasconcelos | Advocacia
 
@@ -20,6 +20,19 @@ Site institucional desenvolvido para **Ferreira &amp; Vasconcelos**, com apresen
 
 *Itens descritos a partir da apresentação pública; o funcionamento de integrações e formulários não foi auditado.*
 
+## Apresentação visual
+
+<div align="center">
+
+<a href="./assets/screenshots/mobile-home.jpg"><img alt="Captura real da versão mobile do site" src="./assets/screenshots/mobile-home.jpg" width="31%"></a>
+
+<br>
+<sub>Versão mobile do site · Captura real</sub>
+
+</div>
+
+**[Ver página completa no desktop ↗](./assets/screenshots/desktop-fullpage.jpg)**
+
 ## Participação
 
 - **Gabriel De Maria Oliveira:** desenvolvimento técnico integral.
@@ -37,7 +50,7 @@ Site institucional desenvolvido para **Ferreira &amp; Vasconcelos**, com apresen
 
 ## Documentação técnica
 
-A stack e os detalhes de implementação serão incluídos após validação. Capturas reais de desktop e mobile também dependem de autorização para divulgação.
+A stack e os detalhes de implementação serão incluídos após validação. Capturas reais de desktop e mobile disponíveis acima, com autorização de divulgação confirmada.
 
 > **Portfólio sem código-fonte:** este repositório apresenta o projeto profissional. Código, credenciais, integrações e arquivos internos permanecem privados.
 
@@ -47,6 +60,6 @@ A stack e os detalhes de implementação serão incluídos após validação. Ca
 
 [**Voltar ao perfil**](https://github.com/GabrielDeMariaOliveira) · [**LinkedIn**](https://www.linkedin.com/in/gabriel-de-maria-oliveira/)
 
-<sub>A imagem de capa é uma ilustração de portfólio, não uma captura do site.</sub>
+<sub>Imagens reais do site publicado, capturadas automaticamente para este portfólio.</sub>
 
 </div>
